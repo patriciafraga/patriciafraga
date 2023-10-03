@@ -1,6 +1,5 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/patriciafraga/patriciafraga/blob/main/7.jpg" />
-&nbsp;&nbsp;&nbsp;
-👋 **Olá!** Seja bem-vindo/a. Sou a **Patricia F Fraga**.
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/patriciafraga/patriciafraga/blob/main/7.jpg" /> &nbsp;&nbsp;&nbsp;
+##Olá! 👋 Seja bem-vindo/a. Sou a Patricia F Fraga.
 
 - Pronouns: ela/dela;
     
