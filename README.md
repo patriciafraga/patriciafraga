@@ -4,7 +4,7 @@
 
 - Pronouns: ela/dela;
     
-<p align="center"> - Sobre mim:
+<p align="center"> Sobre mim:
   
 <p align="center"> Persistente, resiliente. ❤️Apaixonada por aprender, por consertar, por resolver problemas usando tecnologia, hard e soft skills. <br> Aprendendo sempre. Focada atualmente em backend - Javascript, Node.JS. Com conhecimentos em HTML, CSS, Java e Python. <br> Embora, neste momento, mergulhada no desenvolvimento e na aprendizagem contínua em tecnologia, tenho graduação, especialização, mestrado e doutorado em Direito. Mas como sempre tive curiosidade de entender como funcionam as aplicações que acessamos diariamente, decidi migrar de área de atuação e aliar o conhecimento jurídico que já possuo ao mundo do desenvolvimento de softwares, da criação de páginas web, acreditando que esse seja meu diferencial.</p>&nbsp;
 
