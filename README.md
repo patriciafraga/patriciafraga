@@ -1,12 +1,12 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/patriciafraga/patriciafraga/blob/main/7.jpg" />
-<h2> Olá! 👋 Seja bem-vindo/a. Sou a Patricia F Fraga. </h2>
+<h2> Olá! 👋 Seja bem-vindo/a. Sou a Patricia F Fraga.</h2>
 
 - Pronouns: ela/dela;
     
-<p align="center"> Sobre mim:
+<p align="center"> Sobre mim:     
   
 <p align="center">     Persistente, resiliente. ❤️Apaixonada por aprender, por consertar,<br> por resolver problemas usando tecnologia, hard e soft skills. Aprendendo sempre. Focada atualmente em backend - Javascript, Node.JS. Com conhecimentos em HTML, CSS, Java e Python. <br> Embora, neste momento, mergulhada no desenvolvimento e na aprendizagem contínua em tecnologia, tenho graduação, especialização, mestrado e doutorado em Direito. Mas como sempre tive curiosidade de entender como funcionam as aplicações que acessamos diariamente, decidi migrar de área de atuação e aliar o conhecimento jurídico que já possuo ao mundo do desenvolvimento de softwares, da criação de páginas web, acreditando que esse seja meu diferencial.</p>&nbsp;
-
+	
 ![Patricia's GitHub stats](https://github-readme-stats.vercel.app/api?username=patriciafraga\&rank_icon=github\&hide=issues\&show_icons=true\&theme=tokyonight\&align=right) 
 <img src="https://github.com/patriciafraga/patriciafraga/blob/main/2.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -37,6 +37,7 @@
 <div> 
 <a href="https://www.linkedin.com/in/patricia-fraga-aa75bb286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href = "mailto:contato.patricia.f.fraga@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <br> :octocat:
 </div>&nbsp;&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciafraga&layout=compact&hide_progress=true)](https://github.com/patriciafraga/github-readme-stats)  
