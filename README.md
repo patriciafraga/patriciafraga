@@ -1,17 +1,11 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/patriciafraga/patriciafraga/blob/main/7.jpg" />
-<h2> Olá! 👋 Seja bem-vindo/a. Sou a Patricia F Fraga.</h2>
-
-- Pronouns: ela/dela;
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/patriciafraga/patriciafraga/blob/main/7.jpg" /> 
+<h2 align="center"> Olá! 👋 Seja bem-vindo/a. Sou a Patricia F Fraga.</h2> <p align="center">(Pronouns: ela/dela)</p>
     
-<p align="center"> Sobre mim:     
+<p align="center"> Sobre mim:  </p>   
   
 <p align="center">     Persistente, resiliente. ❤️Apaixonada por aprender, por consertar,<br> por resolver problemas usando tecnologia, hard e soft skills. Aprendendo sempre. Focada atualmente em backend - Javascript, Node.JS. Com conhecimentos em HTML, CSS, Java e Python. <br> Embora, neste momento, mergulhada no desenvolvimento e na aprendizagem contínua em tecnologia, tenho graduação, especialização, mestrado e doutorado em Direito. Mas como sempre tive curiosidade de entender como funcionam as aplicações que acessamos diariamente, decidi migrar de área de atuação e aliar o conhecimento jurídico que já possuo ao mundo do desenvolvimento de softwares, da criação de páginas web, acreditando que esse seja meu diferencial.</p>&nbsp;
 
-![patriciafraga's Stats](https://github-readme-stats.vercel.app/api?username=patriciafraga\&rank_icon=github\&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)  
-<img src="https://github.com/patriciafraga/patriciafraga/blob/main/2.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<div align="center"></div>
-
-
+![patriciafraga's Stats](https://github-readme-stats.vercel.app/api?username=patriciafraga\&rank_icon=github\&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/patriciafraga/patriciafraga/blob/main/octocat.png" target="_blank" width=25%> <br><br><br><img src="https://github.com/patriciafraga/patriciafraga/blob/main/2.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  &nbsp;
 ## Habilidades
 #### Principais:
@@ -38,17 +32,14 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 &nbsp;
 ## Contatos:
-<div> 
+<div align = "left"> 
 <a href="https://www.linkedin.com/in/patricia-fraga-aa75bb286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href = "mailto:contato.patricia.f.fraga@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>                     
-<a href = "https://octodex.github.com/images/NUX_Octodex.gif"> <img src="" target="_blank">Imagem de GitHub</a>                     
-	
-</div>&nbsp;&nbsp;
+<a href = "mailto:contato.patricia.f.fraga@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br>              
+</div>
 <div align="center"> 
 	
 ![patriciafraga's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciafraga&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![patriciafraga's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patriciafraga&theme=tokyonight&hide_border=true) 
 
 </div>
-
 
 <img width=100% src="https://github.com/patriciafraga/patriciafraga/blob/main/rodape.png"/>
