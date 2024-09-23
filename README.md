@@ -11,7 +11,7 @@
 #### Principais:
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,bootstrap,nodejs,express,github" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,bootstrap,nodejs,express,github,php" />
   </a>
 	<img src="https://github.com/patriciafraga/patriciafraga/blob/main/2.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  &nbsp;
