@@ -3,7 +3,7 @@
     
 <p align="center"> Sobre mim:  </p>   
   
-<p align="center">     Persistente, resiliente. Estudante de Análise e Desenvolvimento de Sistemas. Educadora Tech.❤️Apaixonada por aprender, por consertar,<br> por resolver problemas usando tecnologia, hard e soft skills. Aprendendo sempre. Focada atualmente em backend - Javascript, Node.JS. Com conhecimentos em HTML, CSS, Java e Python. <br> Embora, neste momento, mergulhada no desenvolvimento e na aprendizagem contínua em tecnologia, tenho graduação, especialização, mestrado e doutorado em Direito. Mas como sempre tive curiosidade de entender como funcionam as aplicações que acessamos diariamente, decidi migrar de área de atuação e aliar o conhecimento jurídico que já possuo ao mundo do desenvolvimento de softwares, da criação de páginas web, acreditando que esse seja meu diferencial.</p>&nbsp;
+<p align="center">     Persistente, resiliente. Estudante de Análise e Desenvolvimento de Sistemas. Educadora Tech.❤️Apaixonada por aprender, por consertar,<br> por resolver problemas usando tecnologia, hard e soft skills. Aprendendo sempre. Focada atualmente em backend - PHP, Javascript, Node.JS. Com conhecimentos em HTML, CSS, Java e PHP. <br> Embora, neste momento, mergulhada no desenvolvimento e na aprendizagem contínua em tecnologia, tenho graduação, especialização, mestrado e doutorado em Direito. Mas como sempre tive curiosidade de entender como funcionam as aplicações que acessamos diariamente, decidi migrar de área de atuação e aliar o conhecimento jurídico que já possuo ao mundo do desenvolvimento de softwares, da criação de páginas web, acreditando que esse seja meu diferencial.</p>&nbsp;
 
 ![patriciafraga's Stats](https://github-readme-stats.vercel.app/api?username=patriciafraga\&rank_icon=github\&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/patriciafraga/patriciafraga/blob/main/octocat.png" target="_blank" width=25%> <br>
 
@@ -32,6 +32,7 @@
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)&nbsp;
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 &nbsp;
 ## Contatos:
 <div align = "left"> 
