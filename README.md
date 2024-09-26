@@ -10,6 +10,7 @@
 ## Habilidades
 #### Principais:
 <div align="left">
+	
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,bootstrap,nodejs,express,github,php" />
   </a>
@@ -33,16 +34,17 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 
-&nbsp;
-## Contatos:
-<div align = "left"> 
-<a href="https://www.linkedin.com/in/patricia-fraga-aa75bb286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href = "mailto:contato.patricia.f.fraga@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br>              
-</div>
 <div align="center"> 
 	
 ![patriciafraga's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciafraga&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![patriciafraga's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patriciafraga&theme=tokyonight&hide_border=true) 
 
 </div>
 
+&nbsp;
+## Contatos:
+<div align = "left"> 
+<a href="https://www.linkedin.com/in/patricia-fraga-aa75bb286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:contato.patricia.f.fraga@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br>              
+</div>
+&nbsp;
 <img width=100% src="https://github.com/patriciafraga/patriciafraga/blob/main/rodape.png"/>
