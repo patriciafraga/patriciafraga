@@ -34,9 +34,13 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 
-<div align="center"> 
+<div align="center">
 	
-![patriciafraga's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciafraga&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![patriciafraga's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patriciafraga&theme=tokyonight&hide_border=true) 
+
+	
+![patriciafraga's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciafraga&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+![patriciafraga's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patriciafraga&theme=tokyonight&hide_border=true) 
 
 </div>
 
