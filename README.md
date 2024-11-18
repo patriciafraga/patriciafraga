@@ -38,7 +38,7 @@
 	
 
 	
-![patriciafraga's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciafraga&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![patriciafraga's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciafraga&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 ![patriciafraga's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patriciafraga&theme=tokyonight&hide_border=true) 
 
