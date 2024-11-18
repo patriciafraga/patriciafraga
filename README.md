@@ -5,7 +5,13 @@
   
 <p align="center">     Persistente, resiliente. Estudante de Análise e Desenvolvimento de Sistemas. Educadora Tech.❤️Apaixonada por aprender, por consertar,<br> por resolver problemas usando tecnologia, hard e soft skills. Aprendendo sempre. Focada atualmente em backend - PHP, Javascript, Node.JS. Com conhecimentos em HTML, CSS, Java e PHP. <br> Embora, neste momento, mergulhada no desenvolvimento e na aprendizagem contínua em tecnologia, tenho graduação, especialização, mestrado e doutorado em Direito. Mas como sempre tive curiosidade de entender como funcionam as aplicações que acessamos diariamente, decidi migrar de área de atuação e aliar o conhecimento jurídico que já possuo ao mundo do desenvolvimento de softwares, da criação de páginas web, acreditando que esse seja meu diferencial.</p>&nbsp;
 
-![patriciafraga's Stats](https://github-readme-stats.vercel.app/api?username=patriciafraga\&rank_icon=github\&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/patriciafraga/patriciafraga/blob/main/octocat.png" target="_blank" width=25%> <br>
+![patriciafraga's GitHub stats](https://github-readme-stats.vercel.app/api?username=patriciafraga\&rank_icon=github\&show_icons=true&theme=transparent&include_all_commits=true)
+
+
+&nbsp; &nbsp;
+<img src="https://github.com/patriciafraga/patriciafraga/blob/main/octocat.png" target="_blank" width=25%> <br>
+
+
 
 ## Habilidades
 #### Principais:
